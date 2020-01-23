@@ -25,7 +25,7 @@ library:
   source-dirs: src
 
 executables:
-  fsih-practice-exe:
+  the-joy-of-haskell-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
@@ -36,7 +36,7 @@ executables:
     - the-joy-of-haskell
 
 tests:
-  fsih-practice-test:
+  the-joy-of-haskell-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:
